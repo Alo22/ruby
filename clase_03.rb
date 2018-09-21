@@ -8,7 +8,6 @@ end
 def to_s
 "ISBN:  #{@isbn}, PRICE: #{@price}"
 end
-
 end
 libro01=BookInStock.new isbn:"28nqsasl", price: 58
 
